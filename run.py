@@ -12,11 +12,11 @@ def main():
     args = parser.parse_args()
     
     if args.serve:
-        os.system("venv/bin/python -m mkdocs serve")
+        os.system("python.exe -m mkdocs serve")
     elif args.deploy:
-        os.system("venv/bin/python -m mkdocs gh-deploy")
+        os.system("python.exe -m mkdocs gh-deploy")
     elif args.build:
-        os.system("venv/bin/python -m mkdocs build")
+        os.system("python.exe -m mkdocs build")
 
 
 if __name__ == "__main__":
