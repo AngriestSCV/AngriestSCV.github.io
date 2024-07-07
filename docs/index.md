@@ -12,36 +12,36 @@
 I make cool things!
 
 
-<a href="https://angriestscv.gumroad.com/">
-    <div class="gumroad-button bg-primary">
+<div class="gumroad-button bg-primary">
+    <a href="https://angriestscv.gumroad.com/">
         <h1 class="gumroad-button-text " >Angry's Gumroad</h1>
-    </div>
-</a>
+    </a>
+</div>
 
-<a href="https://vrchat.com/home/user/usr_61c48877-54a7-49b9-bf0c-696b6fb75982">
-    <div class="gumroad-button bg-primary">
+<div class="gumroad-button bg-primary">
+    <a href="https://vrchat.com/home/user/usr_61c48877-54a7-49b9-bf0c-696b6fb75982">
         <h1 class="gumroad-button-text " >Angry's VRChat profile</h1>
-    </div>
-</a>
+    </a>
+</div>
 
-<a href="https://github.com/AngriestSCV">
-    <div class="gumroad-button bg-primary">
+<div class="gumroad-button bg-primary">
+    <a href="https://github.com/AngriestSCV">
         <h1 class="gumroad-button-text " >Angry's Github</h1>
-    </div>
-</a>
+    </a>
+</div>
 
-<a href="https://x.com/angriestscv">
-    <div class="gumroad-button bg-primary">
+<div class="gumroad-button bg-primary">
+    <a href="https://x.com/angriestscv">
         <h1 class="gumroad-button-text " >Angry's Twitter</h1>
-    </div>
-</a>
+    </a>
+</div>
 
 
-<a href="https://github.com/AngriestSCV/AngriestSCV.github.io">
-    <div class="gumroad-button bg-primary">
+<div class="gumroad-button bg-primary">
+    <a href="https://github.com/AngriestSCV/AngriestSCV.github.io">
         <h1 class="gumroad-button-text " >This Site's source</h1>
-    </div>
-</a>
+    </a>
+</div>
 
 In case you want an example of a way to set up a site.
 
