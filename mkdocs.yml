@@ -2,10 +2,12 @@ site_name: AngriestSCV directory
 
 nav: 
   - Home: index.md
+  - Blog: blog.md
 
 theme:
-    name: mkdocs
+    name: material
     palette:
         scheme: slate
         primary: green
+        accent: yellow
     
