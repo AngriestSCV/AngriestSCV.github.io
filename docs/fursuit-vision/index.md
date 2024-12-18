@@ -29,6 +29,8 @@ and plugging it into a laptop I get a monstrosity to play with.
 
 I cobbled together [some code](test.py) and got to testing. 
 
+![Picture of proof of concept hardware setup](couch-proof-of-concept.png)
+
 ## Proof of concept conclusions
 
 It turns out for

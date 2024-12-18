@@ -1,4 +1,4 @@
 
 # Projects
 
-## [Fursuit Vision](fursuit-vision/main.md)
+## [Fursuit Vision](fursuit-vision/index.md)
